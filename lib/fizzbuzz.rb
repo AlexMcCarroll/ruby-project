@@ -4,4 +4,5 @@ def fizzbuzz(n)
 		n%3==0 ? return "fizz" : return "buzz"
 	else
 		return n
+	end
 end
