@@ -1,1 +1,2 @@
-Hello everyone
+My first Ruby project
+
